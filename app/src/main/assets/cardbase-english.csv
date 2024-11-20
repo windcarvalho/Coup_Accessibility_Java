@@ -1,0 +1,13 @@
+id;name;description;
+1;Carta Assassino;Pague três moedas para o Tesouro Central e tente assasinar outro jogador. Se for bem sucedido, aquele jogador perde imediatamente uma influência(Pode ser bloqueado pela Condessa);
+2;Carta Capitão;Pegue duas moedas de outro jogador. Se ele só tiver uma moeda, pegue apenas uma. (Pode ser bloqueado pelo Capitão ou Embaixador).;
+3;Carta Condessa;Bloqueie uma tentativa de assassinato contra você;
+4;Carta Duque;Pegue três moedas do Tesouro Central;
+5;Carta Embaixador;Pegue duas cartas aleatórias do Baralho da Corte. Troque de zero a duas cartas, com as suas cartas viradas para baixo e devolva duas cartas para o Baralho da Corte.;
+6;Carta Inquisidor;Compre uma carta e em seguida devolva uma carta para o Baralho da Corte. Esta ação não pode ser bloqueada;
+7;Carta Assassino;Pague três moedas para o Tesouro Central e tente assasinar outro jogador.;
+8;Carta Capitão;O jogador que está sendo extorquido pode reinvidicar o Capitão e bloquear a extorsão. O jogador que tentava extorquir não recebe moedas neste turno.;
+9;Carta Condessa;O jogador que está sendo assassinado pode reivindicar a Condessa e bloquear o assassinato. O assassinato falha, mas a taxa paga pelo jogador para o Assassino permanece gasta.;
+10;Carta Duque;Qualquer jogador que reivindicar o Duque pode intervir em um jogador tentando receber ajuda externa. O jogador que tentava ganhar ajuda externa não recebe nenhuma moeda neste turno.;
+11;Carta Embaixador;O jogador que está sendo extorquido pode reinvidicar o Embaixador e bloquear a extorsão. O jogador que tentava extorquir não recebe moedas neste turno.;
+12;Carta Inquisidor;Escolha um jogador, identifique uma de suas cartas, force, ou não, a troca. Esta ação não pode ser bloqueada;

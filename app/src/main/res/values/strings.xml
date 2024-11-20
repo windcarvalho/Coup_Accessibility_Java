@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Acessibilidade Coup</string>
+
+    <string name="jogar">Jogar</string>
+    <string name="ajuda">Ajuda</string>
+    <string name="voltar">Voltar</string>
+    <string name="apagar_dados">Apagar Dados</string>
+    <string name="nome">Nome da Carta</string>
+    <string name="descricao">Descrição</string>
+    <string name="detalhes">Detalhes</string>
+
+    <!--Nome das Cartas-->
+    <string name="assassino">Assassino</string>
+    <string name="capitao">Capitão</string>
+    <string name="condessa">Condessa</string>
+    <string name="duque">Duque</string>
+    <string name="embaixador">Embaixador</string>
+
+    <!--Textos guias para o usuário-->
+    <string name="manter_fim_cadastro">Mantenha o celular próximo da carta até o fim do cadastro!</string>
+
+    <!--Título das Activities-->
+    <string name="menu_activity">Tela de menu principal</string>
+    <string name="readCard_activity">Tela ler informação das cartas</string>
+    <string name="apagarDados_activity">Tela de apagar dados</string>
+    <string name="ajuda_activity">Tela de ajuda</string>
+    <string name="apagar_carta">Apagar carta</string>
+    <string name="tela_apagar_dados">Tela de Apagar Dados</string>
+    <string name="seu_dispositivo_nao_possui_nfc">O seu dispositivo não possui NFC!</string>
+    <string name="ative_o_nfc">Ative o NFC do seu dispositivo! E aproxime o celular da carta que deseja ler</string>
+    <string name="aproxime_da_carta">APROXIME O CELULAR DA CARTA QUE DESEJA LER</string>
+    <string name="carta_nao_cadastrada">Esta carta ainda não está cadastrada!</string>
+    <string name="mantenha_celular_proximo_carta">Mantenha o celular próximo da carta até o fim do processo!</string>
+    <string name="tela_confirmacao">TELA DE CONFIRMAÇÃO!</string>
+    <string name="carta_apagada">Carta apagada com sucesso!</string>
+    <string name="acao_cancelada">Ação cancelada com sucesso!</string>
+    <string name="tela_cadastro_selecione_carta">Tela de Cadastro!  Selecione a carta que deseja cadastrar!</string>
+    <string name="todas_cartas_assassino">Todas as cartas Assassino já foram cadastradas!</string>
+    <string name="todas_carta_capitao">Todas as cartas Capitão já foram cadastradas!</string>
+    <string name="todas_cartas_condessa">Todas as cartas Condessa já foram cadastradas!</string>
+    <string name="todas_cartas_duque">Todas as cartas Duque já foram cadastradas!</string>
+    <string name="todas_cartas_embaixador">Todas as cartas Embaixador já foram cadastradas!</string>
+    <string name="tag_protegida_gravacao">Esta TAG está protegida contra gravação. Porfavor use outra.</string>
+    <string name="carta_cadastrada_sucesso">Carta cadastrada com sucesso!</string>
+    <string name="dados_apagados_sucesso">Dados apagados com sucesso!!!</string>
+    <string name="tela_ajudas">Tela de Ajuda</string>
+    <string name="entenda_acao">Entenda a ação de cada carta!</string>
+    <string name="mantenha_celular_proximo">Mantenha o celular próximo da carta até o fim do cadastro!</string>
+    <string name="tela_ler_informacoes_cartas">Tela ler informações das Cartas</string>
+    <string name="leia_uma_carta_antes">LEIA UMA CARTA ANTES</string>
+
+</resources>

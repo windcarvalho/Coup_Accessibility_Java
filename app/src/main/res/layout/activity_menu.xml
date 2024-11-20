@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/md_theme_background"
+    android:orientation="vertical"
+    tools:context="com.example.coup_acessivel_jv.ReadCard"
+    tools:layout_editor_absoluteY="81dp">
+
+    <Button
+        android:id="@+id/btAssassino"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="9dp"
+        android:layout_weight="2"
+        android:autoSizeMinTextSize="40sp"
+        android:background="@color/colorBackgroundButton"
+        android:padding="15dp"
+        android:text="@string/jogar"
+        android:textColor="@color/colorTextButton"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/btDescricao"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btCapitao"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="9dp"
+        android:layout_weight="2"
+        android:autoSizeMinTextSize="40sp"
+        android:background="@color/colorBackgroundButton"
+        android:padding="15dp"
+        android:text="@string/apagar_dados"
+        android:textColor="@color/colorTextButton"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/btDetalhes"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btNome" />
+
+    <Button
+        android:id="@+id/btCondessa"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="15dp"
+        android:layout_weight="2"
+        android:autoSizeMinTextSize="40sp"
+        android:background="@color/colorBackgroundButton"
+        android:padding="15dp"
+        android:text="@string/ajuda"
+        android:textColor="@color/colorTextButton"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/btDetalhes"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btNome" />
+
+</LinearLayout>

@@ -1,0 +1,13 @@
+id;name;description;
+1;Carta Asesino;Paga tres monedas al Tesoro y contrata el asesinato de un jugador. Si triunfa, este jugador pierde inmediatamente una influencia.(Puede ser bloqueado por la Condesa);
+2;Carta Capitán;Coge dos monedas de otro jugador no ti ene más que una moneda coge sólo una. (Puede ser bloqueado por el Embajador o e l Capitán);
+3;Carta Condesa;Bloquee un asesinato contra usted;
+4;Carta Duque;Coge tres monedas del Tesoro;
+5;Carta Embajador;Cambia cartas con la Corte. Para ello coge dos cartas al azar del mazo de cartas de la Corte, mézclalas con tus cartas ocultas, seleciona las que quieres conservar y devuelve dos cartas al mazo de la Corte;
+6;Carta Inquisidor;Compre uma carta e em seguida devolva uma carta para o Baralho da Corte. Esta ação não pode ser bloqueada;
+7;Carta Asesino;Pague tres monedas en el Tesoro Central e intente asaltar a otro jugador.;
+8;Carta Capitán;El jugador que está siendo extorsionado puede reclamar al Capitán y bloquear la extorsión. El jugador que intentaba extorsionar no recibe monedas este turno.;
+9;Carta Condesa;El jugador que está siendo asesinado puede reclamar la condesa y bloquear el asesinato. El asesinato falla, pero la tarifa pagada por el jugador para el Asesino permanece gastada.;
+10;Carta Duque;Qualquer jogador que reivindicar o Duque pode intervir em um jogador tentando receber ajuda externa. O jogador que tentava ganhar ajuda externa não recebe nenhuma moeda neste turno.;
+11;Carta Embajador;Cualquier jugador que reclame al Duque puede intervenir en un jugador tratando de recibir ayuda externa. El jugador que intentaba ganar ayuda externa no recibe ninguna moneda este turno.;
+12;Carta Inquisidor;Escolha um jogador, identifique uma de suas cartas, force, ou não, a troca. Esta ação não pode ser bloqueada;
